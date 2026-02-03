@@ -19,7 +19,7 @@ The focus is on **end-to-end ML systems**, **research-driven experimentation**, 
 
 | Project | Domain | Description | Tech Stack |
 |-------|-------|-------------|------------|
-| *(Coming Soon)* | Computer Vision | Research & applied ML projects will be added here | Python, PyTorch, OpenCV |
+| [Haar Smile Detection](./haar-smile-detection) | Computer Vision | Published research on real-time smile detection using OpenCV Haar Cascades with automated image capture | Python, OpenCV |
 
 ---
 
